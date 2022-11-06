@@ -16,7 +16,7 @@
     "fs-extra": "^10.1.0",
     "html-minifier": "^4.0.0",
     "node-html-parser": "^5.4.2",
-    "ufo": "^0.8.5"
+    "ufo": "^0.8.6"
   },
   "publishConfig": {
     "access": "public"
